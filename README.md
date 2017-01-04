@@ -14,10 +14,10 @@ This PHP script gives you a dynamically updating calendar appointment for the ne
 
 Use this to subscribe to with your favourite iCal client and always see an appointment if your next available train.
 
-This script has not been called with the correct arguments.  You need to set a destination and origin station in order to generate a usable calendar.
-
-This example shows all the trains from San Diego to Solana Beach:
+## Example
+You need to set a destination and origin station in order to generate a usable calendar. This example shows all the trains from San Diego to Solana Beach:
 [http://yourserver/yourdirectory/amtrak.php?origin=SAN&destination=SOL](http://yourserver/youdirectory/amtrak.php?origin=SAN&destination=SOL)
 
+## Station Abreviations
 A list of the three letter station name abreviations can be found [here](http://en.wikipedia.org/wiki/List_of_Amtrak_stations#A)
 
