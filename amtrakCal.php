@@ -1,6 +1,6 @@
 <?php
 /*
-  rob.brown@ioko.com - Sat Mar 26 2010
+  robert.will.brown@gmail.com - Sat Mar 26 2010
 
   Version $ver 
 
